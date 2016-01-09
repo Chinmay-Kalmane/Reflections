@@ -11,3 +11,7 @@
 --> Branches are a part of your project that are different from your main version. You use branches when you want to work on a feature of your project but just dont want to include it in your main version.
 Clones are copies of your repositories within your local machine or between a local machine and github.
 Forks are copies of repositories on github.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+--> By having a copy of the last known state of the remote locally we can compare changes to our local file with the files in our remote.
